@@ -1,1 +1,2 @@
 código da nova funcionalidade na branch b1
+b2
